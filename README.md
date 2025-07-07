@@ -117,4 +117,4 @@ Project: End-to-End Fraud Detection with Explainability
 ## 📬 Contact
 
 Feel free to connect:  
-[LinkedIn](https://www.linkedin.com/in/mrunal-gaikwad) | [GitHub](https://github.com/mrunalgaikwad2364/credit-card-fraud-detection.git)  
+[LinkedIn](https://www.linkedin.com/in/mrunal-gaikwad-328273300) | [GitHub](https://github.com/mrunalgaikwad2364/credit-card-fraud-detection.git)  
