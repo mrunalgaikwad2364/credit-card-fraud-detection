@@ -98,13 +98,6 @@ Unnecessary columns like name, card number, etc. will be ignored during processi
 
 ---
 
-## 🧑‍💻 Developed For
-
-CodSoft Internship - Machine Learning Intern  
-Project: End-to-End Fraud Detection with Explainability  
-
----
-
 ## ⚡ Future Improvements
 
 - Real-time API integration  
